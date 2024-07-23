@@ -36,9 +36,8 @@ This project demonstrates how to read sensor data from a PZEM-017 power meter us
 
 - **Arduino Mega** to **TTL to RS485 Converter**:
 
-  - `TX1` (pin 18) to `DI`
-  - `RX1` (pin 19) to `RO`
-  - `2` to `DE` and `RE` (Connect `DE` and `RE` together)
+  - `TX1` (pin 18)
+  - `RX1` (pin 19)
   - `GND` to `GND`
   - `5V` to `VCC`
 
